@@ -1,0 +1,1 @@
+Optional editable React source. For rebuilding: install dependencies, copy ../book, ../fonts, ../favicon.svg and ../config.js into public/, then npm run build. Root ZIP already contains compiled website; no installation required to deploy it.
